@@ -1,0 +1,44 @@
+html {
+    background-color: #d2e7fb;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    margin-top : 10px;
+    background-color: #ffe6c2;
+    padding: 0 20px 20px 20px;
+    border: 3px solid #f5bd6e;
+    border-radius: 1%;
+}
+
+p {
+    font-family: sans-serif;
+    color : #ffa8df;
+
+}
+
+li {
+    background-color: #ebdafb;
+    border : 1px solid #d5a8ff;
+    margin-bottom : 5px;
+}
+
+h1{
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color :  #e6a8cf;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 3px 2px rgb(201, 41, 137);
+  margin : 0;
+  padding: 20px 0;
+
+}
+
+img {
+    display : block;
+    margin : 0 auto;
+    max-width : 100%;
+}
