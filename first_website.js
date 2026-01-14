@@ -4,10 +4,10 @@ const heading = document.querySelector('h1');
 const img = document.querySelector('img');
 img.addEventListener('click', () => {
     const src = img.getAttribute('src');
-    if (src === 'images/hpy1.jpg') {
-        img.setAttribute('src', 'images/hny2.jpg');
+    if (src === 'hpy1.jpg') {
+        img.setAttribute('src', 'hny2.jpg');
     } else {
-        img.setAttribute('src', 'images/hpy1.jpg');
+        img.setAttribute('src', 'hpy1.jpg');
     }
 });
 
